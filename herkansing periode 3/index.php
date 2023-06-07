@@ -10,8 +10,10 @@
 <?php
     require_once '../herkansing periode 3/db.php';
     ?>
+
+    <class student>
     <a href="../herkansing periode 3/student_toevoegen.php"><button>Student toevoegen</button></a>
    <a href="../herkansing periode 3/studenten_latenzien.php"> <button> student laten zien</button></a>
-    
+</class>
 </body>
 </html>
