@@ -21,3 +21,4 @@ foreach($result as $data){
     echo $data['leeftijd'] . "<br>";
     echo "<br>";
 }
+
